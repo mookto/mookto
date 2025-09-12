@@ -1,4 +1,6 @@
-# 👋 Hi, I'm [MD MAHEDI HASAN]! 
+![QA Automation](https://codilime.com/img/heading-of-qa-automation-what-is-it-and-why-do-you-need-it.jpg)
+
+# 👋 Hi, I'm MD MAHEDI HASAN! 
 
 ## About Me
 
