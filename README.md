@@ -1,4 +1,4 @@
-![QA Automation](https://codilime.com/img/heading-of-qa-automation-what-is-it-and-why-do-you-need-it.jpg)
+![QA Automation](https://codilime.com/img/qa-automation-process.webp)
 
 # 👋 Hi, I'm [MD MAHEDI HASAN]! 
 
