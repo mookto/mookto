@@ -56,8 +56,8 @@ Test automation framework for web applications using **Cypress**, **POM**, and *
 ## 📞 Connect with Me:
 
 [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/md-mahedi-hasan-301a55128/) 
-[![Twitter](https://img.icons8.com/color/50/000000/twitter.png)](https://twitter.com/your-handle) 
-[![GitHub](https://img.icons8.com/color/50/000000/github.png)](https://github.com/your-profile) 
+[![Twitter](https://img.icons8.com/color/50/000000/twitter.png)](https://twitter.com/0sadhin)
+[![GitHub](https://img.icons8.com/color/50/000000/github.png)](https://github.com/mookto) 
 [![Instagram](https://img.icons8.com/color/50/000000/instagram-new.png)](https://www.instagram.com/your-handle) 
 [![Facebook](https://img.icons8.com/color/50/000000/facebook.png)](https://www.facebook.com/your-profile) 
 [![Portfolio](https://img.icons8.com/color/50/000000/portfolio.png)](https://your-portfolio-link.com)
