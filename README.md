@@ -49,7 +49,7 @@ Test automation framework for web applications using **Cypress**, **POM**, and *
 
 ## 📈 **GitHub Stats**
 
-![Mahedi-hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mookto&show_icons=true&theme=radical)
+![Mahedi Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SOQAMAHEDI&show_icons=true&theme=radical)
 
 ---
 
