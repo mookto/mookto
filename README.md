@@ -48,8 +48,16 @@ Test automation framework for web applications using **Cypress**, **POM**, and *
 ---
 
 ## 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mookto&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
+</p>
 
-![Mahedi Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SOQAMAHEDI&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mookto&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="60%" />
+</p>
+
+
+
 
 ---
 
@@ -69,7 +77,7 @@ _"Your code is only as good as your testing."_
 
 ---
 
-## 🚀 **Goals for 2025**
+## 🚀 **Goals for 2026**
 
 - Contribute to **open-source projects** that promote **test automation** and **CI/CD**.
 - Become proficient in **machine learning** and explore how it can impact **automation testing**.
